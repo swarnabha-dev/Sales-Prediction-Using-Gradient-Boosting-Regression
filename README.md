@@ -1,6 +1,6 @@
 # Sales-Prediction-Using-Gradient-Boosting-Regression
-Analyzing the impact of advertising expenditures (TV, radio, and newspaper) on sales, leveraging advanced machine learning techniques.
-
+Analyzing the impact of advertising expenditures (TV, radio, and newspaper) on sales, leveraging advanced machine learning techniques.<br>
+The dataset used : https://www.kaggle.com/datasets/bumba5341/advertisingcsv
 
 https://github.com/swarnabha-dev/Sales-Prediction-Using-Gradient-Boosting-Regression/assets/111165060/4eb0938b-2c8a-4ac9-b749-a7e7b541ba51
 
